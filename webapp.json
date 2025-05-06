@@ -1,0 +1,13 @@
+
+{
+  "query": "climate change",
+  "results": [
+    {
+      "id": 1,
+      "title": "Impacts of Climate Change",
+      "summary": "An overview of global climate change effects...",
+      "url": "https://www.examplewebapp.com/articles/1"
+    },
+    ...
+  ]
+}
